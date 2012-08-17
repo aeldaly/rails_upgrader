@@ -1,1 +1,1 @@
-# Include hook code here
+require 'db/rails_upgrader'
